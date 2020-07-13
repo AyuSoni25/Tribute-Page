@@ -1,0 +1,50 @@
+body{
+	
+	margin : 0px;
+	text-align : center;
+	position : relative;
+	font-family : 'Balsamiq Sans', cursive;
+}
+
+#bg{
+	background : linear-gradient(45deg, #679b9b, #f7c5a8,#ffeadb, #f7c5a8, #679b9b);
+	position : fixed;
+	height : 100vh;
+	width : 100vw;
+}
+
+#main{
+	position : absolute;
+	background-color : rgba(255,255,255,0.5);
+	width : 96%;
+	margin : 2%;
+	border-radius : 1%;
+}
+
+#title p{
+ 	font-family : 'Dancing Script', cursive;
+ 	font-size : 4.7vw;
+ 	margin : 10px 4px;
+}
+
+#image{
+	height : 50%;
+	width : 50%;
+}
+
+#img-caption{
+	font-size : 1.2vw;
+}
+
+#tribute-info{
+ 	font-size : 2vw;
+	margin : 7%;
+	text-align : left;
+	line-height : 1.5;	
+}
+
+#tribute-info p{
+	font-family : 'Dancing Script', cursive;
+	font-size : 3vw;
+	text-align : center;
+}
