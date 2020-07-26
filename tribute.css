@@ -23,7 +23,7 @@ body{
 
 #title p{
  	font-family : 'Dancing Script', cursive;
- 	font-size : 4.7vw;
+ 	font-size : 3.7rem;
  	margin : 10px 4px;
 }
 
@@ -33,11 +33,11 @@ body{
 }
 
 #img-caption{
-	font-size : 1.2vw;
+	font-size : 1rem;
 }
 
 #tribute-info{
- 	font-size : 2vw;
+ 	font-size : 2rem;
 	margin : 7%;
 	text-align : left;
 	line-height : 1.5;	
@@ -45,6 +45,6 @@ body{
 
 #tribute-info p{
 	font-family : 'Dancing Script', cursive;
-	font-size : 3vw;
+	font-size : 2rem;
 	text-align : center;
 }
